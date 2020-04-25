@@ -497,7 +497,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: E:\Games\MyUnity\TextGame
+  m_LastProjectPath: E:\Games\MyUnity\ReedAndPlay\textgame\RnP
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -717,9 +717,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 0.478943, y: -0.09364883, z: -1.9950589}
     speed: 2
-    m_Value: {x: -0.4167103, y: -1.4713724, z: -127.36328}
+    m_Value: {x: 0.4752248, y: 0.00408642, z: -1.9569374}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -769,9 +769,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 10.116514
     speed: 2
-    m_Value: 21.007507
+    m_Value: 10.593208
   m_Ortho:
     m_Target: 1
     speed: 2
